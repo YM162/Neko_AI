@@ -8,7 +8,7 @@ Está todo bastante desordenado ya que son básicamente pruebas y herramientas d
 
 ## Versiones
 Hay varias versiones:</br>
-*La versión de livetrade es capaz de comprar y vender en el mercado real a intervalos regulares. </br>
-*Las versiones de backtesting son capaces de simular el mercado step by step a partir de un archivo csv e ir ejecutando las decisiones tomadas por una función "brain" arbitraria. Tiene en cuenta las comisiones de la casa de cambio y puede realizar compras de un porcentaje arbitrario del portfolio, por lo que las predicciones deberían de ser bastante precisas. El resultado de la simulación se representa en una gráfica.</br>
-*La versión NEAT utiliza el algoritmo de evolución de redes del mismo nombre, pero evidentemente no funciona bien porque no está hecho para eso, se hizo nada más para probar la librería.</br>
+* La versión de livetrade es capaz de comprar y vender en el mercado real a intervalos regulares. </br>
+* Las versiones de backtesting son capaces de simular el mercado step by step a partir de un archivo csv e ir ejecutando las decisiones tomadas por una función "brain" arbitraria. Tiene en cuenta las comisiones de la casa de cambio y puede realizar compras de un porcentaje arbitrario del portfolio, por lo que las predicciones deberían de ser bastante precisas. El resultado de la simulación se representa en una gráfica.</br>
+* La versión NEAT utiliza el algoritmo de evolución de redes del mismo nombre, pero evidentemente no funciona bien porque no está hecho para eso, se hizo nada más para probar la librería.</br>
 
